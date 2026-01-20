@@ -31,7 +31,7 @@ GO
 USE DataWarehouse;
 GO
 
--- Create Schemas
+-- Creates Schemas
 CREATE SCHEMA bronze;
 GO
 
